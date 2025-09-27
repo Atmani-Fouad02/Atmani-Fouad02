@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://twitter.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" alt="Buy Me a Coffee" height="30" width="30" /></a>
+<a href="https://github.com/Atmani-Fouad02/portfolio" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" alt="Buy Me a Coffee" height="30" width="30" /></a>
 </p>
 
 ---
