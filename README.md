@@ -63,9 +63,7 @@
 ### 📬 Contact Me
 
 - 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/feed/)
-- 🌐 Portfolio: (أضف رابط موقعك هنا لو عندك)
-- 📧 Email: (أضف إيميل التواصل هنا)
-
+  
 ---
 
 ### ✨ Fun Quote
